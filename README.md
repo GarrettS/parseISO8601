@@ -1,7 +1,19 @@
 parseISO8601
 ============
 
-Parse ISO 8601 YYYY-MM-DDThh:mm:ss.mmm
+Parse ISO 8601 subset that is a union of what is specified in ECMAScript and ISO 8601. 
+
+
+== Valid Formats ==
+YYYY
+YYYY-MM
+YYYY-MM-DD
+YYYY-MM-DDThh
+YYYY-MM-DDThh:mm
+YYYY-MM-DDThh:mm:ss
+YYYY-MM-DDThh:mm:ss.m
+YYYY-MM-DDThh:mm:ss.mm
+YYYY-MM-DDThh:mm:ss.mmm
 
 Parses local date formats.
 
