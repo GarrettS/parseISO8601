@@ -1,10 +1,10 @@
 parseISO8601
 ============
 
-Parse ISO 8601 subset that is a union of what is specified in ECMAScript and ISO 8601. 
+Parse ISO 8601 subset that is a union of what is specified both in ECMAScript and ISO 8601. 
 
 
-== Valid Formats ==
+## Valid Formats
 ```
 YYYY
 YYYY-MM
